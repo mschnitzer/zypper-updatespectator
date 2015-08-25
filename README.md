@@ -1,7 +1,7 @@
 # zypper-updatespectator
 A update spectator script for zypper.
 
-The script collects all available updates for the OS and holds the packages (which can be updated) in a PHP array.
+The script collects all available updates for the OS and holds the packages (which can be updated) in a PHP array. This script can be integrated in existing projects. Nothing special but I needed that especially for me.
 
 For example:
 ```
